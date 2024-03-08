@@ -3,7 +3,7 @@ qiskit_pulse demonstration notebook
 
 ### Prerequisites
 
-- It works with Python 3.10.
+- Confirmed it works with Python 3.10.
 
 ### Qiskit 1.0 installation required.
 ```
